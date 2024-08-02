@@ -1,0 +1,13 @@
+{
+  "name": "02-express",
+  "version": "1.0.0",
+  "main": "serves.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
